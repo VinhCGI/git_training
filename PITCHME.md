@@ -9,12 +9,12 @@
 ## Get the code
 
 ```bash
-git clone https://url.to/the/git/server
+$ git clone https://url.to/the/git/server
 ```
 
 <img src="/images/remote.png" width="500"/>
 
-usually called `origin`
+usually called *origin*
 
 ---
 
