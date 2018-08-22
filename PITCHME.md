@@ -13,13 +13,14 @@
 
 ## Get the code
 
-```bash
+```console
 $ git clone https://url.to/the/git/server
 ```
 
 <img src="/images/remote.png" width="500"/>
 
-usually called **'origin'**
+- remote is usually called **'origin'**
+- default branch is **'master'**
 
 ---
 
@@ -31,7 +32,7 @@ usually called **'origin'**
 
 ## How it works
 
-```bash
+```console
 # Allows you to select which files you want to commit
 $ git add .
 
@@ -42,3 +43,13 @@ $ git commit
 $ git status
 $ git log
 ```
+
+*"Commit early, Commit Often"*
+
+---
+
+## Share it
+
+```console
+# always specify remote location and branch
+$ git push origin master
