@@ -1,4 +1,5 @@
-#### Git With It: an introduction to git
+#### Git With It
+##### an introduction to git
 
 ![XKCD](/images/xkcd.png)
 
