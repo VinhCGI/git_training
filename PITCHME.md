@@ -35,11 +35,10 @@ usually called **'origin'**
 # Allows you to select which files you want to commit
 $ git add .
 
-# Add the file 
+# Commit the file to your LOCAL change history
 $ git commit
-```
 
-```bash
+# Useful informational commands
 $ git status
 $ git log
 ```
