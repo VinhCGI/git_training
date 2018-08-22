@@ -16,7 +16,6 @@
 ```console
 $ git clone https://url.to/the/git/server
 ```
-
 <img src="/images/remote.png" width="500"/>
 
 - remote is usually called **'origin'**
