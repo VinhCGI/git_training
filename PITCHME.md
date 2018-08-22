@@ -11,14 +11,15 @@
 
 ---
 
-## Get the code
+### Get the code
 
 ```console
 $ git clone https://url.to/the/git/server
 ```
 <img src="/images/remote.png" width="500"/>
 
-remote location is usually called **'origin'**, default branch is **'master'**
+remote location is usually called **'origin'**
+default branch is **'master'**
 
 ---
 
