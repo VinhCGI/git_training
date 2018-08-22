@@ -18,8 +18,8 @@ $ git clone https://url.to/the/git/server
 ```
 <img src="/images/remote.png" width="500"/>
 
-remote location is usually called **'origin'**
-default branch is **'master'**
+* remote location is usually called **'origin'**
+* default branch is **'master'**
 
 ---
 
@@ -52,3 +52,6 @@ $ git log
 ```console
 # always specify remote location and branch
 $ git push origin master
+
+# but first, pull
+$ git pull
