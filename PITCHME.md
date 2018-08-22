@@ -6,7 +6,7 @@
 
 ---
 
-# Get the code
+## Get the code
 
 ```bash
 git clone https://url.to/the/git/server
@@ -14,10 +14,10 @@ git clone https://url.to/the/git/server
 
 <img src="/images/remote.png" alt="drawing" width="500"/>
 
-- Usually called `origin`
+usually called `origin`
 
 ---
 
-# How it works
+## How it works
 
 ![Git](/images/git.png)
