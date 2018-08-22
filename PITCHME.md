@@ -1,4 +1,4 @@
-# Git With It: an introduction to git
+#### Git With It: an introduction to git
 
 ![XKCD](/images/xkcd.png)
 
@@ -10,7 +10,7 @@
 git clone https://url.to/the/git/server
 ```
 
-![Remote](/images/remote.png)
+![Remote](/images/remote.png | width: 75)
 
 - Usually called `origin`
 
