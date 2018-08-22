@@ -1,8 +1,13 @@
-#### Git With It
-
-###### an introduction to git
+#### Introduction to git
 
 ![XKCD](/images/xkcd.png)
+
+---
+
+## Get Git
+
+* Git Bash
+* SourceTree
 
 ---
 
@@ -21,3 +26,12 @@ usually called **'origin'**
 ## How it works
 
 ![Git](/images/git.png)
+
+---
+
+## How it works
+
+```bash
+$ git add .
+$ git commit
+```
