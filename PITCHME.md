@@ -6,7 +6,9 @@
 
 # Get the code
 
-`git clone https://url.to/the/git/server`
+```
+git clone https://url.to/the/git/server
+```
 
 ![Remote](/images/remote.png)
 
