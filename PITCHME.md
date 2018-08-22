@@ -12,7 +12,7 @@
 git clone https://url.to/the/git/server
 ```
 
-![Remote](/images/remote.png | width: 75)
+![Remote](/images/remote.png | width = 75)
 
 - Usually called `origin`
 
