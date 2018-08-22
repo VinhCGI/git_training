@@ -38,4 +38,5 @@ $ git commit
 
 ```bash
 $ git status
+$ git log
 ```
