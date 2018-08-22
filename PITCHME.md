@@ -35,3 +35,7 @@ usually called **'origin'**
 $ git add .
 $ git commit
 ```
+
+```bash
+$ git status
+```
