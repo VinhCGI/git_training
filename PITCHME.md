@@ -32,7 +32,10 @@ usually called **'origin'**
 ## How it works
 
 ```bash
+# Allows you to select which files you want to commit
 $ git add .
+
+# Add the file 
 $ git commit
 ```
 
