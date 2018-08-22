@@ -6,7 +6,7 @@
 
 # Get the code
 
-```
+```bash
 git clone https://url.to/the/git/server
 ```
 
