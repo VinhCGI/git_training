@@ -49,13 +49,6 @@ $ git log
 
 ---
 
-## Share it
+## Push & Pull
 
-```console
-# always specify remote location and branch
-$ git push origin master
-
-
-# but first, pull
-$ git pull
-```
+https://www.youtube.com/watch?v=8wuk8OKgeXk
