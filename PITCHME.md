@@ -51,4 +51,4 @@ $ git log
 
 ## Push & Pull
 
-![Video](https://www.youtube.com/watch?v=8wuk8OKgeXk)
+![Video](https://www.youtube.com/embed/8wuk8OKgeXk)
