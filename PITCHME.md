@@ -35,8 +35,10 @@ $ git clone https://url.to/the/git/server
 # Allows you to select which files you want to commit
 $ git add .
 
+
 # Commit the file to your LOCAL change history
 $ git commit
+
 
 # Useful informational commands
 $ git status
