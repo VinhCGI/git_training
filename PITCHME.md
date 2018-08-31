@@ -53,6 +53,7 @@ $ git log
 # always specify remote location and branch
 $ git push origin master
 
+
 # but first, pull
 $ git pull
 ```
