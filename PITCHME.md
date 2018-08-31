@@ -49,6 +49,23 @@ $ git log
 
 ---
 
-## Push & Pull
+## PUSH it real good
+
+```console
+$ git push
+```
 
 ![Video](https://www.youtube.com/embed/8wuk8OKgeXk)
+
+---
+
+## But PULL first
+
+```console
+$ git pull
+
+# which is equivalent to
+$ git fetch
+$ git merge
+```
+
