@@ -6,8 +6,10 @@
 
 ## Get Git
 
-* Git Bash
-* SourceTree
+| Git Bash | Sourcetree |
+|----------|------------|
+| <img src="/images/sourcetree.png" width="100"/> | <img src="/images/gitbash.png" width="100"/> |
+
 
 ---
 
@@ -63,6 +65,7 @@ $ git push
 
 ```console
 $ git pull
+
 
 # which is equivalent to
 $ git fetch
