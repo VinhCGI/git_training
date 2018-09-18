@@ -53,6 +53,10 @@ $ git status
 
 ---
 
+<img src="/images/stages.png" />
+
+---
+
 ### Step 3 - add the files
 
 ```
@@ -101,6 +105,8 @@ $ git push
 ---
 
 # ADVANCE TOPICS
+
+<img src="/images/1337-haxor-stuff.jpg" width="300"/>
 
 ---
 
