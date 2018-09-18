@@ -22,8 +22,6 @@
 
 ---
 
-## Just memorize this...
-
 ### Step 1 - get the source
 
 ```console
