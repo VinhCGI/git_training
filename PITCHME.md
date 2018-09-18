@@ -113,24 +113,38 @@ $ git push
 ### create a branch
 
 ```
-$ git branch features/favorite_animals
+$ git branch features/favorite_movies
 $ git branch -a
-$ git checkout features/favorite_animals
+$ git checkout features/favorite_movies
 ```
 
 ---
 
-* Add a new file and list your five favorite animals
+* Add a new file "movies" and list your favorite movie
 
 ---
 
-* Oops, I mean 10 animals
+* Oops, I mean movies
 
 ---
 
-### rebase your commits
+* Add a new file "movie_categories" and list all the movie categories
+* Group your "movies" into categories
+
+---
+
+### check your commits
+
+```
+$ git status
+```
+
+---
+
+### clean up your commits
 
 ```
 $ git rebase -i
 ```
 
+----
