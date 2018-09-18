@@ -80,10 +80,18 @@ $ git push
 
 ---
 
-### Step 6 - update your code
+### Step 5 - update your code
 
 ```
 $ git status
 $ git fetch
 $ git merge
+```
+
+---
+
+### Step 6 - push your commits
+
+```
+$ git push
 ```
