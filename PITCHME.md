@@ -37,7 +37,7 @@ $ git log
 ### Step 2 - write the code
 
 1. Add a new item to the "food" list
-2. Add a new file "countries" and list 5 countries.
+2. Add a new file "countries" and list 4 countries.
 
 ---
 
@@ -65,8 +65,10 @@ $ git add countries
 ### Step 4 - commit your changes
 
 ```
-$ git commit -m "#ETS-115: a detailed message of what you did"
+$ git config --global core.editor notepad
+$ git commit
 ```
+"#STEP-2: a detailed message of what you did"
 
 * Commit early, Commit Often
 
@@ -95,3 +97,29 @@ $ git merge
 ```
 $ git push
 ```
+
+---
+
+# ADVANCE TOPICS
+
+---
+
+### create a branch
+
+---
+
+### commit more code
+
+```
+$ git add countries
+$ git commit -m "#STEP-2: add one more country"
+$ git status
+```
+---
+
+### rebase your commits
+
+```
+$ git rebase -i
+```
+
