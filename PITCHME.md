@@ -112,15 +112,20 @@ $ git push
 
 ### create a branch
 
+```
+$ git branch features/favorite_animals
+$ git branch -a
+$ git checkout features/favorite_animals
+```
+
 ---
 
-### commit more code
+* Add a new file and list your five favorite animals
 
-```
-$ git add countries
-$ git commit -m "#STEP-2: add one more country"
-$ git status
-```
+---
+
+* Oops, I mean 10 animals
+
 ---
 
 ### rebase your commits
