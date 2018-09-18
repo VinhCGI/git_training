@@ -6,14 +6,12 @@
 
 ## Get Git
 
-| Git Bash | Sourcetree |
-|----------|------------|
-| <img src="/images/sourcetree.png" width="100"/> | <img src="/images/gitbash.png" width="100"/> |
-
+* Download GitBash
+* Only losers use GUIs.
 
 ---
 
-### Git vs Github vs Bitbucket
+### Git / Github / Bitbucket
 
 <img src="/images/remote.png" width="500"/>
 
@@ -24,7 +22,7 @@
 
 ### Step 1 - get the source
 
-```console
+```
 $ git clone https://github.com/VinhCGI/git_started.git
 $ git status
 $ git log
@@ -45,7 +43,7 @@ $ git log
 
 ### What have you done?
 
-```console
+```
 $ git status
 ```
 
@@ -55,18 +53,18 @@ $ git status
 
 ---
 
-### Step 3 - add the code
+### Step 3 - add the files
 
-```console
+```
 $ git add food
 $ git add countries
 ```
 
 ---
 
-### Step 4 - commit the code
+### Step 4 - commit your changes
 
-```console
+```
 $ git commit -m "#ETS-115: a detailed message of what you did"
 ```
 
@@ -74,22 +72,18 @@ $ git commit -m "#ETS-115: a detailed message of what you did"
 
 ---
 
-## PUSH it real good
+### Step 5 - push your commits
 
-```console
+```
 $ git push
 ```
 
 ---
 
-## But PULL first
+### Step 6 - update your code
 
-```console
-$ git pull
-
-
-# which is equivalent to
+```
+$ git status
 $ git fetch
 $ git merge
 ```
-
