@@ -36,8 +36,6 @@ $ git log
 
 ---
 
-## Let's practice
-
 ### Step 2 - write the code
 
 1. Add a new item to the "food" list
@@ -45,7 +43,7 @@ $ git log
 
 ---
 
-## What have you done?
+### What have you done?
 
 ```console
 $ git status
