@@ -13,11 +13,8 @@
 
 ---
 
-### Get the code
+### Git vs Github vs Bitbucket
 
-```console
-$ git clone https://url.to/the/git/server
-```
 <img src="/images/remote.png" width="500"/>
 
 * remote location is usually called **'origin'**
@@ -25,29 +22,59 @@ $ git clone https://url.to/the/git/server
 
 ---
 
-## How it works
+## Just memorize this...
 
-![Git](/images/git.png)
-
----
-
-## How it works
+### Step 1 - get the source
 
 ```console
-# Allows you to select which files you want to commit
-$ git add .
-
-
-# Commit the file to your LOCAL change history
-$ git commit
-
-
-# Useful informational commands
+$ git clone https://github.com/VinhCGI/git_started.git
 $ git status
 $ git log
 ```
 
-*"Commit early, Commit Often"*
+* Usually there is a "clone" button
+* Not the same as "downloading"
+* Comes with ".git" folder
+
+---
+
+## Let's practice
+
+### Step 2 - write the code
+
+1. Add a new item to the "food" list
+2. Add a new file "countries" and list 5 countries.
+
+---
+
+## What have you done?
+
+```console
+$ git status
+```
+
+* Staged
+* UnStaged (Modified/Deleted)
+* UnTracked
+
+---
+
+### Step 3 - add the code
+
+```console
+$ git add food
+$ git add countries
+```
+
+---
+
+### Step 4 - commit the code
+
+```console
+$ git commit -m "#ETS-115: a detailed message of what you did"
+```
+
+* Commit early, Commit Often
 
 ---
 
@@ -56,8 +83,6 @@ $ git log
 ```console
 $ git push
 ```
-
-![Video](https://www.youtube.com/embed/8wuk8OKgeXk)
 
 ---
 
