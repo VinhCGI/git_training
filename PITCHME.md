@@ -53,7 +53,7 @@ $ git status
 
 ---
 
-<img src="/images/stages.png" />
+<img src="/images/stages.png" width="600" />
 
 ---
 
