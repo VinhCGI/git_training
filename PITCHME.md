@@ -4,19 +4,29 @@
 
 ---
 
-## Get Git
-
-* Download GitBash
-* Only losers use GUIs.
-
----
-
 ### Git / Github / Bitbucket
 
 <img src="/images/remote.png" width="500"/>
 
 * remote location is usually called **'origin'**
 * default branch is **'master'**
+
+---
+
+## Get Git
+
+* Download GitBash
+* Don't use GUIs.
+* Don't compare Git with other source control tools
+
+---
+
+### What is Git?
+
+* Collaboration Tool
+* Code Quality
+* Documentation
+* Source Control
 
 ---
 
